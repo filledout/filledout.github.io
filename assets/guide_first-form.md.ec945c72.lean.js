@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a as l}from"./app.4dd1e863.js";const C=JSON.parse(`{"title":"Let's make a form","description":"","frontmatter":{},"headers":[],"relativePath":"guide/first-form.md"}`),p={name:"guide/first-form.md"},o=l("",7),e=[o];function t(c,r,F,D,y,i){return a(),n("div",null,e)}const m=s(p,[["render",t]]);export{C as __pageData,m as default};

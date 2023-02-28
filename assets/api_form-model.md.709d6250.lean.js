@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as t,a as i}from"./app.4dd1e863.js";const p=JSON.parse('{"title":"FormModel","description":"","frontmatter":{},"headers":[],"relativePath":"api/form-model.md"}'),d={name:"api/form-model.md"},a=i("",10),c=[a];function l(s,r,n,u,f,h){return t(),o("div",null,c)}const b=e(d,[["render",l]]);export{p as __pageData,b as default};

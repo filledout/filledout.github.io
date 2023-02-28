@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as s,a as t}from"./app.4dd1e863.js";const p=JSON.parse('{"title":"Selectors","description":"","frontmatter":{},"headers":[],"relativePath":"api/react/selectors.md"}'),r={name:"api/react/selectors.md"},i=t("",3),c=[i];function d(a,l,u,n,_,h){return s(),o("div",null,c)}const m=e(r,[["render",d]]);export{p as __pageData,m as default};

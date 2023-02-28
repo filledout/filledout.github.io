@@ -1,0 +1,1 @@
+import{_ as e,c as t,o,a}from"./app.4dd1e863.js";const f=JSON.parse(`{"title":"What's next?","description":"","frontmatter":{},"headers":[],"relativePath":"guide/whatsnext.md"}`),n={name:"guide/whatsnext.md"},s=a("",4),i=[s];function r(l,c,u,d,p,h){return o(),t("div",null,i)}const g=e(n,[["render",r]]);export{f as __pageData,g as default};
