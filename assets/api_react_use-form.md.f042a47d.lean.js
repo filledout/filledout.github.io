@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as t,a}from"./app.2524b8b6.js";const f=JSON.parse('{"title":"useForm()","description":"","frontmatter":{},"headers":[],"relativePath":"api/react/use-form.md"}'),d={name:"api/react/use-form.md"},c=a("",6),s=[c];function r(i,n,l,u,m,p){return t(),o("div",null,s)}const h=e(d,[["render",r]]);export{f as __pageData,h as default};

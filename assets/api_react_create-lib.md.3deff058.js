@@ -1,0 +1,13 @@
+import{_ as s,c as a,o as e,a as n}from"./app.2524b8b6.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[{"level":2,"title":"createLib()","slug":"createlib","link":"#createlib","children":[]}],"relativePath":"api/react/create-lib.md"}'),l={name:"api/react/create-lib.md"},p=n(`<h2 id="createlib" tabindex="-1"><code>createLib()</code> <a class="header-anchor" href="#createlib" aria-hidden="true">#</a></h2><p>Accepts config and returns library methods and properties</p><p>Config:</p><ul><li><code>validateOnUseForm</code> - global setting for <code>useForm</code> hook. Sets default <code>validate</code> value. If set to true calls <code>validate</code> event on mount.</li></ul><p>Returns:</p><div class="language-typescript"><button title="Copy Code" class="copy"></button><span class="lang">typescript</span><pre class="shiki material-theme-palenight"><code><span class="line"><span style="color:#89DDFF;">{</span></span>
+<span class="line"><span style="color:#F07178;">    </span><span style="color:#A6ACCD;">useForm</span><span style="color:#89DDFF;">,</span></span>
+<span class="line"><span style="color:#F07178;">    </span><span style="color:#A6ACCD;">useField</span><span style="color:#89DDFF;">,</span></span>
+<span class="line"><span style="color:#F07178;">    </span><span style="color:#A6ACCD;">useDirty</span><span style="color:#89DDFF;">,</span></span>
+<span class="line"><span style="color:#F07178;">    </span><span style="color:#A6ACCD;">useValue</span><span style="color:#89DDFF;">,</span></span>
+<span class="line"><span style="color:#F07178;">    </span><span style="color:#A6ACCD;">useErrors</span><span style="color:#89DDFF;">,</span></span>
+<span class="line"><span style="color:#F07178;">    </span><span style="color:#A6ACCD;">useFields</span><span style="color:#89DDFF;">,</span></span>
+<span class="line"><span style="color:#F07178;">    </span><span style="color:#A6ACCD;">useFocused</span><span style="color:#89DDFF;">,</span></span>
+<span class="line"><span style="color:#F07178;">    </span><span style="color:#A6ACCD;">useTouched</span><span style="color:#89DDFF;">,</span></span>
+<span class="line"><span style="color:#F07178;">    </span><span style="color:#A6ACCD;">useSubmitted</span><span style="color:#89DDFF;">,</span></span>
+<span class="line"><span style="color:#F07178;">    </span><span style="color:#A6ACCD;">useExternalErrors</span></span>
+<span class="line"><span style="color:#89DDFF;">}</span></span>
+<span class="line"></span></code></pre></div>`,6),o=[p];function t(c,r,i,d,F,y){return e(),a("div",null,o)}const _=s(l,[["render",t]]);export{u as __pageData,_ as default};

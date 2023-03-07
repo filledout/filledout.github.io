@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as t,a as i}from"./app.2524b8b6.js";const f=JSON.parse('{"title":"createForm()","description":"","frontmatter":{},"headers":[],"relativePath":"api/create-form.md"}'),a={name:"api/create-form.md"},r=i("",3),l=[r];function c(d,n,s,p,m,u){return t(),o("div",null,l)}const b=e(a,[["render",c]]);export{f as __pageData,b as default};
